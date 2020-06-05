@@ -1,4 +1,4 @@
-package com.daydayup.confgin.Controller;
+package com.daydayup.daybegin.Controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
