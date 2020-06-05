@@ -73,6 +73,6 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>config-server</module>
+		<module>daybegin</module>
 	</modules>
 </project>

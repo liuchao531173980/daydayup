@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 <!--	<groupId>com.daydayup</groupId>-->
-	<artifactId>config-server</artifactId>
+	<artifactId>daybegin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config-server</name>
+	<name>daybegin</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
